@@ -1,0 +1,1 @@
+Código para bloquear modo desenvolvedor no seu site
